@@ -59,4 +59,36 @@ or ignore these two sections and move slower with more effort. The choice is up 
 
 # Mid-level Developer 
 # Senior Developer 
-# Software architect 
+# Software architect
+OK, so this is where the real fun starts ... you're done being a jedi padawan at this point. And you start gunning towards being a jedi master.
+Below is a list of key resources, which will help you advance towards a software architect role in broad strides.
+
+**Theory:**
+1) [AWS well-architected framework](https://aws.amazon.com/architecture/well-architected/) and its 5 pillars. This is a collection of best practices for reaching non-functional attributes, which are highly desirable for any IT system: Security, Reliability, Pefrormance Efficiency, Cost Optimisation, Operational Efficiency.
+
+2) [MIT Distributed Systems Course](https://www.youtube.com/channel/UC_7WrbZTCODu1o_kfUMq88g). Every system in 2021 is beyond is a distributed system. Such is the reality of enterprise software development right now. Even for simple startups in addition to the main monolithic application there will be some other AWS lambdas or similar services that interact with it.
+
+3) [MIT Security Course](https://youtube.com/playlist?list=PLA6Ht2dJt3SKN3z4S6nOvuJtesDXbly7S). Every customer wants a secure system, even though noone will explicity tells you about it. You need a robust mental framework to design your systems with security in mind from day 0. This will help avoid costly rearchitecturing if flaws are found further down the line. 
+
+4) [Enterprise Integration Patterns Book](https://www.enterpriseintegrationpatterns.com/) Again, every system right now is a distributed system. Therefore, you need to have the knowledge and the skills about how to make them work together in an efficient way. 
+
+**Practice:**
+OK, so you've learned some concepts from the theory section. Hey, guess what ? Theory without practice is dead !
+Therefore, what you'll need to do to grow as an architect is construct the architectures you image out of AWS components
+plus some custom code to "glue" everything together.
+
+After this what you should do is apply functional tests, load tests and some security testing to see how your architecture 
+is able to correctly and reliably proces the expected workload in a secure way. 
+
+1) Prepare for and pass the **AWS Certified Developer** certification. 
+This course will familiarise you with a broad range of AWS services and how to use each one in a good way.
+Very solid foundation to build you AWS knowledge on.
+
+2) Prepare for and pass the **AWS Certified DevOps** engineer. 
+Teaches you all the good DevOpsy stuff like CI/CD, Infrastructure as code, etc ... as an architect its desirable that you 
+understand every aspect of what makes a reliable back-end.
+
+3) Prepare for and pass the **Kubernetes Cloud Administrator** certification.
+4) You need to learn some **load testing** tools/techniques.
+
+ 
