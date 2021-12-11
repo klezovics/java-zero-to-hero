@@ -72,6 +72,8 @@ Below is a list of key resources, which will help you advance towards a software
 
 4) [Enterprise Integration Patterns Book](https://www.enterpriseintegrationpatterns.com/) Again, every system right now is a distributed system. Therefore, you need to have the knowledge and the skills about how to make them work together in an efficient way. 
 
+5) [System design primer](https://github.com/donnemartin/system-design-primer) A fantastic collection of resources related to all aspects of system design.
+
 **Practice:**
 OK, so you've learned some concepts from the theory section. Hey, guess what ? Theory without practice is dead !
 Therefore, what you'll need to do to grow as an architect is construct the architectures you image out of AWS components
