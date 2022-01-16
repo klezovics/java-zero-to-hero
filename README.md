@@ -56,10 +56,25 @@ or ignore these two sections and move slower with more effort. The choice is up 
 - SQL 
 - Bash 
 - Basic IT knowledge
+- Basic coding skills. Solve 50 easy problems on [leetcode](https://leetcode.com/)
 
-# Mid-level Developer 
+# Mid-level Developer
+- Time to explore [Kotlin](https://kotlinlang.org/docs/getting-started.html), which is Java++
+- Mid-level coding skills. Solve 150 easy probelms on [leetcode](https://leetcode.com/))
+- [SOLID principles](https://springframework.guru/solid-principles-object-oriented-programming/)
+- [GoF desing patterns](https://refactoring.guru/design-patterns) 
+- [System desing intro](https://courses.systeminterview.com/courses/system-design-interview-an-insider-s-guide)
+- [Multithreading in Java](https://www.udemy.com/course/java-multithreading-concurrency-performance-optimization/)
 # Senior Developer 
+- String coding skills. Solve 100 medium problems on [leetcode](https://leetcode.com/)
+- [Distibuted systems](https://www.udemy.com/course/distributed-systems-cloud-computing-with-java/)
+- [Enterprise application patterns](https://martinfowler.com/eaaCatalog/)
+- [System design in depth](https://github.com/donnemartin/system-design-primer)
 # Software architect
+- [K8S certification](https://www.cncf.io/certification/cka/). Needed to prototype architectures fast.
+- AWS Certified Developer certification. Needed to prototype architectures fast
+- AWS Cerfified DevOps engineer certification. Needed to prototype architectures fast
+
 OK, so this is where the real fun starts ... you're done being a jedi padawan at this point. And you start gunning towards being a jedi master.
 Below is a list of key resources, which will help you advance towards a software architect role in broad strides.
 
